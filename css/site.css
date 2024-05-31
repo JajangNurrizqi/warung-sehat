@@ -106,8 +106,10 @@ body {
 .btn-category-outline.active{
     border: 0 !important;
     border-bottom: 2px solid #82CD47;
+    transition: 0 !important;
 }
 .btn-category-outline:active{
     border: 0 !important;
     border-bottom: 2px solid #82CD47 !important;
+    transition: 0 !important;
 }
