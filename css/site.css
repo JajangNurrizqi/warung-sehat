@@ -104,7 +104,7 @@ body {
     border-bottom: 2px solid #82CD47;
 } */
 .btn-category-outline.active{
-    border: 0;
+    border: 0 !important;
     border-bottom: 2px solid #82CD47;
 }
 .btn-category-outline:active{
